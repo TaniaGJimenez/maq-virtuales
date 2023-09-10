@@ -1,0 +1,11 @@
+1. ¿Por qué un lenguaje de programación solo puede utilizarse en algunos sistemas operativos y en otros no?
+Algunos lenguajes de programación estan diseñados para un sistema operativo en particular, mientras que otros son mas portatiles y pueden ejecutarse en variros mediante la implementación de versiones especificas para cada plataforma.
+
+2.¿Qué tipo de maquina virtual soporta virtualBox?
+Es compatible con Windows,Linux, macOs. Ya que es un hipervisor de tipo 2. Lo que significa que se ejecuta en un sistema operativo host existente.
+
+3. ¿Qué función cumple el hypervisor en la virtualización?
+Es el que crea y gestiona las multiples maquinas virtuales en un unico hardware fisico. Este se encarga de asignar recursos fisicos, como CPU, memoria,almacenamiento y dispositivos de red.
+
+4. Si tengo más de una maquina virtual instalada, y una se rompe,¿Esto afecta a las demas? ¿Por qué?
+No las afecta, puesto que los hipervisores estan diseñados para proporcionar aislamiento y separación entre las maquinas virtuales.oO0000000
